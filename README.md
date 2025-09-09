@@ -2,4 +2,5 @@
 First repository for Game Development Foundations.
 
 HELLO, NERDS!!!
-...AND NERDLETTES!!!
+
+...AND NERDETTES!!!
